@@ -148,3 +148,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# vscode tmp files
+.dccache
+
+# reference pdf's
+references/*.pdf
